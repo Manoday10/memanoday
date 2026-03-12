@@ -7,7 +7,7 @@ import { Marquee } from "@/components/marquee"
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-background bg-grid">
+    <main className="min-h-screen bg-background">
       <Navbar />
       <HeroSection />
       <ProjectsSection />
